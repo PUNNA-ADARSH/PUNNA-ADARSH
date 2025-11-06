@@ -16,6 +16,10 @@
 [![CSS3](https://img.shields.io/badge/-css3-5e5e5e?logo=CSS3)](#)
 [![MS_Excel](https://img.shields.io/badge/-Excel-09B755?logo=Microsoft+Excel)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=MongoDB)](#)
+
 
 
 
