@@ -1,8 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/112575126/235303194-ac77b7e4-8af8-4b1a-8cfc-33cde72fd45e.gif"></p><h1 align="center">Adarsh 𝙝𝙚𝙧𝙚!👋
 </h1>
 
-- 🔭 I'm an Enthusiastic Software and IOT developer 🧑‍💻
-- 👷‍♂️ Working on IOT products
+- 🔭 I'm an Enthusiastic Software developer 
 - 📫 Mail me: [punnaadarsh@gmail.com](mailto:punnaadarsh@gmail.com)
 - ⚡ Fun fact: Laughing developer
 
