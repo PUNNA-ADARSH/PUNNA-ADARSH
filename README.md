@@ -15,6 +15,8 @@
 [![HTML5](https://img.shields.io/badge/-html5-5e5e5e?logo=HTML5)](#)
 [![CSS3](https://img.shields.io/badge/-css3-5e5e5e?logo=CSS3)](#)
 [![MS_Excel](https://img.shields.io/badge/-Excel-09B755?logo=Microsoft+Excel)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+
 
 
 ### 🛠 Tools:
